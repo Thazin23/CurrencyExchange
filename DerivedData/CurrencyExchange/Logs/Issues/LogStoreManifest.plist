@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>logFormatVersion</key>
+	<integer>10</integer>
+	<key>logs</key>
+	<dict>
+		<key>A7442226-50E0-417E-B841-E1A034F8E2F8</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogMajorGroupSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.target.product-type.framework</string>
+			<key>fileName</key>
+			<string>A7442226-50E0-417E-B841-E1A034F8E2F8.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>W</string>
+			</dict>
+			<key>signature</key>
+			<string>SwiftyJSON-gapbdcyoavvumvgjyojlexqroyva</string>
+			<key>timeStartedRecording</key>
+			<real>630682617.37652504</real>
+			<key>timeStoppedRecording</key>
+			<real>630682617.37662005</real>
+			<key>title</key>
+			<string>Build target SwiftyJSON</string>
+			<key>uniqueIdentifier</key>
+			<string>A7442226-50E0-417E-B841-E1A034F8E2F8</string>
+		</dict>
+		<key>B4E50AF1-F6EE-47CE-8FE5-77755A0E5553</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogMajorGroupSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.target.product-type.framework</string>
+			<key>fileName</key>
+			<string>B4E50AF1-F6EE-47CE-8FE5-77755A0E5553.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>W</string>
+			</dict>
+			<key>signature</key>
+			<string>SVProgressHUD-gapbdcyoavvumvgjyojlexqroyva</string>
+			<key>timeStartedRecording</key>
+			<real>630682617.376127</real>
+			<key>timeStoppedRecording</key>
+			<real>630682617.37626004</real>
+			<key>title</key>
+			<string>Build target SVProgressHUD</string>
+			<key>uniqueIdentifier</key>
+			<string>B4E50AF1-F6EE-47CE-8FE5-77755A0E5553</string>
+		</dict>
+		<key>F4673207-3512-4A96-A7AC-A427772598D5</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogMajorGroupSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.target.product-type.framework</string>
+			<key>fileName</key>
+			<string>F4673207-3512-4A96-A7AC-A427772598D5.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>W</string>
+			</dict>
+			<key>signature</key>
+			<string>DropDown-gapbdcyoavvumvgjyojlexqroyva</string>
+			<key>timeStartedRecording</key>
+			<real>630682617.37634397</real>
+			<key>timeStoppedRecording</key>
+			<real>630682617.37644005</real>
+			<key>title</key>
+			<string>Build target DropDown</string>
+			<key>uniqueIdentifier</key>
+			<string>F4673207-3512-4A96-A7AC-A427772598D5</string>
+		</dict>
+	</dict>
+	<key>preserveOldLogs</key>
+	<true/>
+</dict>
+</plist>

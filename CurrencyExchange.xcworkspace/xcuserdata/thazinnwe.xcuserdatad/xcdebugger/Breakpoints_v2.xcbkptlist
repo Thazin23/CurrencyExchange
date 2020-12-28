@@ -1,0 +1,134 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "37BF72CB-39EC-4C6F-A4C0-5C4792C37BB2"
+   type = "0"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "2EFFC88C-3A0C-4E44-8E90-75FB630B7B7B"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "CurrencyExchange/ViewController/HomeViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "98"
+            endingLineNumber = "98"
+            landmarkName = "getExchangeRate()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "2EFFC88C-3A0C-4E44-8E90-75FB630B7B7B - b0caf3a2f7548b31"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "CurrencyExchange.HomeViewController.getExchangeRate() -&gt; ()"
+                  moduleName = "CurrencyExchange"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/thazinnwe/Documents/THAZIN/iOS%20Test%20Project/CurrencyExchange/CurrencyExchange/ViewController/HomeViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "85"
+                  endingLineNumber = "85"
+                  offsetFromSymbolStart = "556">
+               </Location>
+               <Location
+                  uuid = "2EFFC88C-3A0C-4E44-8E90-75FB630B7B7B - b0caf3a2f7548b31"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "CurrencyExchange.HomeViewController.getExchangeRate() -&gt; ()"
+                  moduleName = "CurrencyExchange"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/thazinnwe/Documents/THAZIN/iOS%20Test%20Project/CurrencyExchange/CurrencyExchange/ViewController/HomeViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "85"
+                  endingLineNumber = "85"
+                  offsetFromSymbolStart = "1212">
+               </Location>
+               <Location
+                  uuid = "2EFFC88C-3A0C-4E44-8E90-75FB630B7B7B - 935ade4d70e7c80"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (SwiftyJSON.JSON, CurrencyExchange.NetworkStatus) -&gt; () in CurrencyExchange.HomeViewController.getExchangeRate() -&gt; ()"
+                  moduleName = "CurrencyExchange"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/thazinnwe/Documents/THAZIN/iOS%20Test%20Project/CurrencyExchange/CurrencyExchange/ViewController/HomeViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "86"
+                  endingLineNumber = "86"
+                  offsetFromSymbolStart = "240">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "6B000773-424D-43EC-A97B-7AE9FEE44330"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "CurrencyExchange/ViewController/HomeViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "55"
+            endingLineNumber = "55"
+            landmarkName = "getCurrencyList()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "6B000773-424D-43EC-A97B-7AE9FEE44330 - 198a2e3e41f57fc"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "CurrencyExchange.HomeViewController.getCurrencyList() -&gt; ()"
+                  moduleName = "CurrencyExchange"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/thazinnwe/Documents/THAZIN/iOS%20Test%20Project/CurrencyExchange/CurrencyExchange/ViewController/HomeViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "50"
+                  endingLineNumber = "50"
+                  offsetFromSymbolStart = "88">
+               </Location>
+               <Location
+                  uuid = "6B000773-424D-43EC-A97B-7AE9FEE44330 - 198a2e3e41f57fc"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "CurrencyExchange.HomeViewController.getCurrencyList() -&gt; ()"
+                  moduleName = "CurrencyExchange"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/thazinnwe/Documents/THAZIN/iOS%20Test%20Project/CurrencyExchange/CurrencyExchange/ViewController/HomeViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "50"
+                  endingLineNumber = "50"
+                  offsetFromSymbolStart = "120">
+               </Location>
+               <Location
+                  uuid = "6B000773-424D-43EC-A97B-7AE9FEE44330 - 6e30afaee57290db"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (SwiftyJSON.JSON, CurrencyExchange.NetworkStatus) -&gt; () in CurrencyExchange.HomeViewController.getCurrencyList() -&gt; ()"
+                  moduleName = "CurrencyExchange"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/thazinnwe/Documents/THAZIN/iOS%20Test%20Project/CurrencyExchange/CurrencyExchange/ViewController/HomeViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "51"
+                  endingLineNumber = "51"
+                  offsetFromSymbolStart = "404">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
